@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1fa33b75.chunk.css",
+    "main.js": "/portfolio/static/js/main.98664054.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.98664054.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.aa010ad9.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.aa010ad9.js.map",
+    "static/js/2.ba0a1b24.chunk.js": "/portfolio/static/js/2.ba0a1b24.chunk.js",
+    "static/js/2.ba0a1b24.chunk.js.map": "/portfolio/static/js/2.ba0a1b24.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d6cd4b11ca92d046cef7b03478e02fac.js": "/portfolio/precache-manifest.d6cd4b11ca92d046cef7b03478e02fac.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.1fa33b75.chunk.css.map": "/portfolio/static/css/main.1fa33b75.chunk.css.map",
+    "static/js/2.ba0a1b24.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ba0a1b24.chunk.js.LICENSE.txt",
+    "static/media/deepak_kumar.jpg": "/portfolio/static/media/deepak_kumar.c176cf14.jpg",
+    "static/media/img-01.jpg": "/portfolio/static/media/img-01.f07aafe5.jpg",
+    "static/media/img-02.png": "/portfolio/static/media/img-02.7ac1058d.png",
+    "static/media/img-03.png": "/portfolio/static/media/img-03.3579e619.png",
+    "static/media/img-04.png": "/portfolio/static/media/img-04.cf5ba9c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa010ad9.js",
+    "static/js/2.ba0a1b24.chunk.js",
+    "static/css/main.1fa33b75.chunk.css",
+    "static/js/main.98664054.chunk.js"
+  ]
+}
